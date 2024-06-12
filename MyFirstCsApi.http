@@ -1,0 +1,6 @@
+@MyFirstCsApi_HostAddress = http://localhost:5083
+
+GET {{MyFirstCsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
