@@ -30,3 +30,4 @@ C:\Users\Victor\source\repos\MyFirstCsApi\obj\Debug\net8.0\refint\MyFirstCsApi.d
 C:\Users\Victor\source\repos\MyFirstCsApi\obj\Debug\net8.0\MyFirstCsApi.pdb
 C:\Users\Victor\source\repos\MyFirstCsApi\obj\Debug\net8.0\MyFirstCsApi.genruntimeconfig.cache
 C:\Users\Victor\source\repos\MyFirstCsApi\obj\Debug\net8.0\ref\MyFirstCsApi.dll
+C:\Users\Victor\source\repos\MyFirstCsApi\obj\Debug\net8.0\MyFirstCsApi.sourcelink.json
